@@ -35,3 +35,25 @@ The injector will automatically load your menu.
 
 ---
 
+### How to Switch Menus (Without Restarting)
+1. Rename your current menu (example: 667zm.gscc)
+2. Place your new menu as 667.gscc
+3. In-game, press R1 + Square
+
+The old menu will be unloaded and the new one injected instantly.
+
+---
+
+### Notes
+ - This project is still under development.
+ - Always use the latest version available in the Releases.
+
+### Disclaimer
+ - This project is for educational and modding purposes only.
+ - Use at your own risk.
+
+---
+
+ If you like the project, feel free to star the repo!
+ Made for the BO3 PS4 community.
+
