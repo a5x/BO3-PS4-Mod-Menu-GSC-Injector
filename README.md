@@ -1,15 +1,37 @@
-# BO3-PS4-Mod-Menu-GSC-Injector
+# BO3 PS4 GSC Mod Menu Injector
 
-This project is unded dev
+**Black Ops 3 Auto Injector**
 
-made for ps4 works on all firmware with goldhen active
+A simple, fast and reliable GSC injector for Black Ops 3 on PS4. Works on all firmwares with GoldHEN.
 
-put this .prx in /data/GoldHEN/plugins/
-after this edit plugins.ini in bo3 CUSA line add this : /data/GoldHEN/plugins/bo3autoloader667.prx just like this no =true/=false
+---
 
-after this start BO3
-wait the second notification say no file found
-after this in filezila go into /data/667injector/bo3injector/ and here put the mod menu and rename it into : 667.gsc/gscc
-after this restart bo3 and now the plugins auto inject this mod menu !
+## About This Project
 
-for exemple if you want to change to an another menu or my multiplayer menu just rename the first menu like 667zm.gscc, and put your new 667.gscc, in bo3 press r1 + squarre and the plugins remove the old menu from bo3 and inject this new menu you don't need to restart bo3!
+This injector was created to make loading your GSC mod menus on Black Ops 3 (PS4) as easy as possible. It supports both Zombies and Multiplayer menus.
+
+---
+
+## Installation Guide
+
+### Step 1: Install the Plugin
+1. Copy the file `bo3autoloader667.prx` to this location:  
+   `/data/GoldHEN/plugins/`
+
+2. Edit your `plugins.ini` file and add the following line under the **BO3 (CUSA)** section:
+
+   ```DON'T PUT =true or =false
+   /data/GoldHEN/plugins/bo3autoloader667.prx
+
+### Step 2: Add Your Mod Menu
+1. Launch Black Ops 3.
+2. Wait for the notification: "No file found".
+3. Using FileZilla, go to this path:
+   `/data/667injector/bo3injector/`
+4. Put your mod menu file in this folder and rename it exactly to 667.gscc
+5. Restart Black Ops 3.
+
+The injector will automatically load your menu.
+
+---
+
