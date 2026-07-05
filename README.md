@@ -30,20 +30,23 @@ This injector was created to make loading your GSC mod menus on Black Ops 3 (PS4
    `/data/667injector/bo3injector/`
 4. Put your mod menu file in this folder and rename it exactly to 667.gscc
 5. Restart Black Ops 3.
+BONUS 6. This prx inject mod menu zombie in first so if you want to permanently inject multiplayer zombie,
+          go here : `/data/667injector/bo3injector/667settings/667s.ini` and edit zm by mp
 
 The injector will automatically load your menu.
 
 ---
 
 ### How to Switch Menus (Without Restarting)
-1. Rename your current menu (example: 667zm.gscc)
-2. Place your new menu as 667.gscc
-3. In-game, press R1 + Square
+1. Rename your current menu (example: 667zm2.gscc)
+2. Place your new menu as 667mp.gscc
+3. In-game, press R1 + /\ (triangle)
+
 
 The old menu will be unloaded and the new one injected instantly.
 
 ---
-
+<img width="1920" height="1080" alt="Call of Duty®_ Black Ops III_20260704025004" src="https://github.com/user-attachments/assets/704dcbe4-6e97-4f08-a27a-cd789a943529" />
 ### Notes
  - This project is still under development.
  - Always use the latest version available in the Releases.
