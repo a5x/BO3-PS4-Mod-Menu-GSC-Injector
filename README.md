@@ -28,7 +28,7 @@ This injector was created to make loading your GSC mod menus on Black Ops 3 (PS4
 2. Wait for the notification: "No file found".
 3. Using FileZilla, go to this path:
    `/data/667injector/bo3injector/`
-4. Put your mod menu file in this folder and rename it exactly to 667.gscc
+4. Put your mod menu file in this folder 667mp or 667zm
 5. Restart Black Ops 3.
 BONUS 6. This prx inject mod menu zombie in first so if you want to permanently inject multiplayer zombie,
           go here : `/data/667injector/bo3injector/667settings/667s.ini` and edit zm by mp
