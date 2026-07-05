@@ -55,6 +55,8 @@ The old menu will be unloaded and the new one injected instantly.
  - This project is for educational and modding purposes only.
  - Use at your own risk.
 
+### Credit 
+ - Merci a ce frérot pour la base du PRX [base prx](https://github.com/0x1496FD0/T7-GSC-Injectorhttps://github.com/0x1496FD0/T7-GSC-Injector)
 ---
 
  If you like the project, feel free to star the repo!
