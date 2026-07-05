@@ -26,10 +26,9 @@ This injector was created to make loading your GSC mod menus on Black Ops 3 (PS4
 ### Step 2: Add Your Mod Menu
 1. Launch Black Ops 3.
 2. Wait for the notification: "No file found".
-2.1 go to `/data/` and put 667_notif_icon.png
 4. Using FileZilla, go to this path:
    `/data/667injector/bo3injector/`
-5. Put your mod menu file in this folder 667mp or 667zm
+5. Put your mod menu file in this folder 667mp or 667zm and go to `/data/` and put 667_notif_icon.png
 6. Restart Black Ops 3.
 7. BONUS - This prx inject mod menu zombie in first so if you want to permanently inject multiplayer or zombie,
           go here : `/data/667injector/bo3injector/667settings/667s.ini` and edit zm by mp
