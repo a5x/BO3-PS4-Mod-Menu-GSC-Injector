@@ -38,9 +38,9 @@ The injector will automatically load your menu.
 ---
 
 ### How to Switch Menus (Without Restarting)
-1. Rename your current menu (example: 667zm2.gscc)
-2. Place your new menu as 667mp.gscc
-3. In-game, press R1 + /\ (triangle)
+1. Press R1 + down d-pad
+2. Your second menu is now selected
+3. press R1 + /\ (triangle)
 
 
 The old menu will be unloaded and the new one injected instantly.
